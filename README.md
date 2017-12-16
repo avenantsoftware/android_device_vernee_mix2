@@ -1,0 +1,1 @@
+# android_device_vernee_mix2
