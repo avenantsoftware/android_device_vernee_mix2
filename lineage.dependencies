@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_vernee_mt6757d-common",
+    "target_path": "device/vernee/mt6757d-common"
+  }
+]
